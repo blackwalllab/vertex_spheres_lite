@@ -15,7 +15,7 @@ Preview GIF will be added later.
 Download from Releases:
 
 ```text
-vertex_lite.zip
+[Download Vertex Lite](https://github.com/blackwalllab/vertex-lite/releases)
 ```
 
 ---
