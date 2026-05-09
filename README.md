@@ -6,7 +6,7 @@ Real-time procedural vertex system for Blender.
 
 ## 🔥 Preview
 
-Preview GIF will be added later.
+Preview GIF will be added here later.
 
 ```md
 ![Vertex Lite Preview](https://github.com/blackwalllab/vertex_lite/raw/main/preview.gif)
@@ -18,19 +18,19 @@ Preview GIF will be added later.
 
 ### ✅ Direct Download
 
-[Download vertex_lite.zip](https://github.com/blackwalllab/vertex_lite/releases/download/v1.0.0/vertex_lite.zip)
+[Download vertex_lite.zip](https://github.com/blackwalllab/vertex_lite/releases/latest/download/vertex_lite.zip)
 
 ---
 
 ## ⚠ Important
 
-Do **not** use:
+Do NOT use:
 
 ```text
 Code → Download ZIP
 ```
 
-That downloads the repository source code, not the installable Blender addon.
+That downloads the repository source code, NOT the installable Blender addon.
 
 Use only:
 
@@ -42,9 +42,10 @@ from Releases.
 
 ---
 
-## ⚙ Installation
+## ⚙ Blender Installation
 
 1. Open Blender
+
 2. Go to:
 
 ```text
@@ -67,30 +68,29 @@ Vertex Lite
 
 ## 🔥 Features
 
-- Real-time vertex generation
-- Procedural geometry system
+- Real-time procedural vertex system
+- Dynamic geometry generation
 - Lightweight Blender addon
 - Modular Python structure
-- Clean public Lite version
+- Experimental geometry workflow
 - No external dependencies
+- Public Lite version
 
 ---
 
 ## 🧠 About
 
-Vertex Lite is a lightweight Blender addon for procedural vertex-based geometry workflows.
+Vertex Lite is an experimental Blender addon for procedural geometric systems.
 
-It is part of the Blackwall higher-dimensional geometry ecosystem.
+The addon generates and transforms geometry directly inside Blender in real time.
 
-The system generates and transforms geometry directly inside Blender.
+This is NOT a pre-rendered animation.
 
-This is not a pre-rendered animation.
+The geometry exists dynamically inside the system itself.
 
 ---
 
 ## 📦 Correct ZIP Structure
-
-The install ZIP must look like this:
 
 ```text
 vertex_lite.zip
@@ -101,13 +101,11 @@ vertex_lite.zip
     └── ui/
 ```
 
-If Blender does not install it, the ZIP structure is wrong.
-
 ---
 
 ## 🛠 Requirements
 
-- Blender 3.0 or newer
+- Blender 3.0+
 
 ---
 
