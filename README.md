@@ -1,59 +1,50 @@
 # Vertex Lite
 
-Real-time 4D vertex system for Blender.
+Real-time procedural vertex system for Blender.
 
 ---
 
-# 🔥 Preview
+## 🔥 Preview
 
-Preview GIF will be added here.
-
-After uploading preview.gif to the repository root:
+Preview GIF will be added later.
 
 ```md
-![Vertex Preview](https://github.com/blackwalllab/vertex_lite/raw/main/preview.gif)
+![Vertex Lite Preview](https://github.com/blackwalllab/vertex_lite/raw/main/preview.gif)
 ```
 
 ---
 
-# 🚀 Download
+## 🚀 Download
 
-## ✅ Recommended Installation
+### ✅ Direct Download
 
-[Download Vertex Lite ZIP](https://github.com/blackwalllab/vertex_lite/releases/download/v1.0.0/vertex_lite.zip)
-
-Install file:
-
-```text
-vertex_lite.zip
-```
-
-Release version:
-
-```text
-Vertex Lite v1.0.0
-```
+[Download vertex_lite.zip](https://github.com/blackwalllab/vertex_lite/releases/download/v1.0.0/vertex_lite.zip)
 
 ---
 
-# ⚠ Important
+## ⚠ Important
 
-Do NOT use:
+Do **not** use:
 
 ```text
 Code → Download ZIP
 ```
 
-This downloads the repository source code, NOT the installable Blender addon.
+That downloads the repository source code, not the installable Blender addon.
 
-Use the Release ZIP instead.
+Use only:
+
+```text
+vertex_lite.zip
+```
+
+from Releases.
 
 ---
 
-# ⚙ Blender Installation
+## ⚙ Installation
 
 1. Open Blender
-
 2. Go to:
 
 ```text
@@ -66,7 +57,7 @@ Edit → Preferences → Add-ons → Install
 vertex_lite.zip
 ```
 
-4. Enable the addon:
+4. Enable:
 
 ```text
 Vertex Lite
@@ -74,77 +65,59 @@ Vertex Lite
 
 ---
 
-# 🔥 Features
+## 🔥 Features
 
-- Real-time 4D vertex system
-- Procedural geometric generation
-- Real-time transformations
-- Lightweight Python implementation
-- Blender native addon
-- Experimental higher-dimensional workflow
+- Real-time vertex generation
+- Procedural geometry system
+- Lightweight Blender addon
+- Modular Python structure
+- Clean public Lite version
 - No external dependencies
-- Clean Lite version
 
 ---
 
-# 🧠 About
+## 🧠 About
 
-Vertex Lite is an experimental Blender addon for procedural higher-dimensional geometric systems.
+Vertex Lite is a lightweight Blender addon for procedural vertex-based geometry workflows.
 
-The addon generates and manipulates dynamic geometric structures directly inside Blender in real time.
+It is part of the Blackwall higher-dimensional geometry ecosystem.
 
-This is NOT a pre-rendered animation.
+The system generates and transforms geometry directly inside Blender.
 
-The geometry exists and transforms procedurally inside the system itself.
+This is not a pre-rendered animation.
 
 ---
 
-# 📦 Included
+## 📦 Correct ZIP Structure
 
-Repository structure:
+The install ZIP must look like this:
 
 ```text
-README.md
-LICENSE
-vertex_lite/
+vertex_lite.zip
+└── vertex_lite/
+    ├── __init__.py
+    ├── core/
+    ├── operators/
+    └── ui/
 ```
 
-Inside the installable ZIP:
-
-```text
-vertex_lite/
-├── __init__.py
-├── core/
-├── operators/
-└── ui/
-```
+If Blender does not install it, the ZIP structure is wrong.
 
 ---
 
-# 🛠 Requirements
+## 🛠 Requirements
 
 - Blender 3.0 or newer
 
 ---
 
-# 🚀 Roadmap
-
-- Advanced vertex systems
-- Additional geometric structures
-- Improved UI
-- Animation tools
-- Hyper systems
-- Pro version
-
----
-
-# 👤 Author
+## 👤 Author
 
 Blackwall
 
 ---
 
-# 🌀 Manifesto
+## 🌀 Manifesto
 
 This is not animation.
 
