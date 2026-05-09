@@ -11,7 +11,7 @@ Preview GIF will be added here.
 After uploading preview.gif to the repository root:
 
 ```md
-![Vertex Preview](https://github.com/blackwalllab/vertex-lite/raw/main/preview.gif)
+![Vertex Preview](https://github.com/blackwalllab/vertex_lite/raw/main/preview.gif)
 ```
 
 ---
@@ -22,7 +22,7 @@ After uploading preview.gif to the repository root:
 
 Download the Blender addon ZIP from Releases:
 
-https://github.com/blackwalllab/vertex-lite/releases
+https://github.com/blackwalllab/vertex_lite/releases
 
 Install file:
 
@@ -151,3 +151,4 @@ Blackwall
 This is not animation.
 
 Beyond 3D.
+
