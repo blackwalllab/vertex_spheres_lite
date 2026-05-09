@@ -20,9 +20,7 @@ After uploading preview.gif to the repository root:
 
 ## ✅ Recommended Installation
 
-Download the Blender addon ZIP from Releases:
-
-https://github.com/blackwalllab/vertex_lite/releases
+[Download Vertex Lite ZIP](https://github.com/blackwalllab/vertex_lite/releases/download/v1.0.0/vertex_lite.zip)
 
 Install file:
 
@@ -33,7 +31,7 @@ vertex_lite.zip
 Release version:
 
 ```text
-Vertex Lite v1.0
+Vertex Lite v1.0.0
 ```
 
 ---
@@ -48,7 +46,7 @@ Code → Download ZIP
 
 This downloads the repository source code, NOT the installable Blender addon.
 
-Use the ZIP file from Releases instead.
+Use the Release ZIP instead.
 
 ---
 
@@ -151,4 +149,3 @@ Blackwall
 This is not animation.
 
 Beyond 3D.
-
